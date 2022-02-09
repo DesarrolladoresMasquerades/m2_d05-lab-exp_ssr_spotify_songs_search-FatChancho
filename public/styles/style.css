@@ -1,0 +1,17 @@
+.background{
+    background-image: url(../images/spotify-background.jpeg);
+    width: 100%;
+    height:900px;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.square-white{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    opacity: 0.5;
+    width: 30rem;
+    height: 10rem;
+    left: 50%;
+}
